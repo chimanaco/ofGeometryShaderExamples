@@ -6,10 +6,10 @@ Examples for Geometry Shader with openFrameworks. I made this since I couldn't f
 
 ## Installation
 
-The easiest way may be using Project Generator. 
+The easiest way may be using Project Generator (Let me call it PG). 
 
-* Create new project with it and put files from a project folder(geometryShader150example only right now).
-* Put a project folder into OF/apps/myApps, then import the project with Project Generator and update it. 
+* Create new project with PG and put files from a project folder(geometryShader150example only right now).
+* Put a project folder into OF/apps/myApps, then import the project with PG and update it. 
 
 ## Usage
 
