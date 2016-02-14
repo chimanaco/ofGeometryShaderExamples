@@ -1,20 +1,31 @@
 # oF-GeometryShader-Examples
 
-Examples for Geometry Shader with openFrameworks. I made this since I couldn't find an example which is built with other than GLSL 1.2.
+Examples for Geometry Shader with openFrameworks. I made this since I couldn't find an example which is built with other than GLSL 1.2.<br>
+Tested with oF9.0 / Xcode 7.01 / OS 10.10.5.
 
 ![sample image](http://i.imgur.com/X3FG2PR.png "sample image")
+
+## Examples
+
+* geometryShader120example (openGL2.1 / GLSL version 120)
+* geometryShader150example (openGL3.2 / GLSL version 150)
 
 ## Installation
 
 The easiest way may be using Project Generator (Let me call it PG). 
 
-* Create new project with PG and put files from a project folder(geometryShader150example only right now).
+* Create new project with PG and put files from a project folder(geometryShader120example or geometryShader150example).
 * Put a project folder into OF/apps/myApps, then import the project with PG and update it. 
 
 ## Usage
+For geometryShader150example, set GLVersion to 3.2.
 
-Now only go with openGL 3.2 / GLSL 1.5, so set GLVersion to 3.2. I will make examples for other version later.
-Tested with oF9.0 / Xcode 7.01 / OS 10.10.5.
+## Known Issues
+geometryShader150example is unstable on El Captain.
+
+## Contributor
+* [@murasaki_0606](https://twitter.com/murasaki_0606) (Bug Report)
+
 
 ## References
 
