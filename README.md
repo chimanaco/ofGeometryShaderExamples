@@ -23,9 +23,9 @@ Tested with oF9.0 / Xcode 7.01 / OS 10.10.5.
 * [Geometry Shader | mirrorboy](http://mirror.boy.jp/?cat=80)
 * [Simple Introduction to Geometry Shaders in GLSL (Part 1) – Geeks3D](http://www.geeks3d.com/20111111/simple-introduction-to-geometry-shaders-glsl-opengl-tutorial-part1/)
 * [Exploring GLSL – Normal Visualizer with Geometry Shaders (Shader Library) – Geeks3D](http://www.geeks3d.com/20130905/exploring-glsl-normal-visualizer-with-geometry-shaders-shader-library/)
+* [Particle Billboarding with the Geometry Shader (GLSL) – Geeks3D](http://www.geeks3d.com/20140815/particle-billboarding-with-the-geometry-shader-glsl/)
 * [Interactive 3-D graphics lecture: geometry shaders | teaching machines](http://www.twodee.org/weblog/?p=805)
 * [Geometry Shader](http://learnopengl.com/#!Advanced-OpenGL/Geometry-Shader)
-* [Particle Billboarding with the Geometry Shader (GLSL) – Geeks3D}(http://www.geeks3d.com/20140815/particle-billboarding-with-the-geometry-shader-glsl/)
 * [コーディングリハビリ – 球とパーリン・ノイズ | yoppa org](http://yoppa.org/blog/6114.html)
 * [File:Earthmap1000x500.jpg - Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Earthmap1000x500.jpg)
 
