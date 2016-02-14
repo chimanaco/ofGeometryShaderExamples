@@ -12,7 +12,7 @@ Tested with oF9.0 / Xcode 7.01 / OS 10.10.5.
 
 ## Installation
 
-The easiest way may be using Project Generator (Let me call it PG). 
+The easiest way might be using Project Generator (Let me call it PG). 
 
 * Create new project with PG and put files from a project folder(geometryShader120example or geometryShader150example).
 * Put a project folder into OF/apps/myApps, then import the project with PG and update it. 
@@ -21,9 +21,9 @@ The easiest way may be using Project Generator (Let me call it PG).
 For geometryShader150example, set GLVersion to 3.2.
 
 ## Known Issues
-geometryShader150example is unstable on El Captain.
+* geometryShader150example is unstable on El Captain.
 
-## Contributor
+## Contributors
 * [@murasaki_0606](https://twitter.com/murasaki_0606) (Bug Report)
 
 
