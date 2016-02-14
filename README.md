@@ -1,6 +1,6 @@
 # oF-GeometryShader-Examples
 
-Examples for Geometry Shader with openFrameworks. I made this since I couldn't find an example which is built with other than GLSL 1.2.<br>
+Simple examples for Geometry Shader with openFrameworks. I made this since I couldn't find an example which is built with other than GLSL 1.2.<br>
 Tested with oF9.0 / Xcode 7.01 / OS 10.10.5.
 
 ![sample image](http://i.imgur.com/X3FG2PR.png "sample image")
